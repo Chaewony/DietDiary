@@ -1,4 +1,5 @@
-# DietDiary
+# HealthDiary
+안드로이드 스튜디오 프로젝트 / IoT 센서 활용
 
 	헬스 다이어리 APP
 - 센서를 이용한 만보기 기능 탑재
